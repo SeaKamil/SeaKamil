@@ -10,6 +10,7 @@ Microsoft Office
 **My software development career : 1987 - In Progress**
 
 **My Works**
+
 [C++] Artificial Intelligence and Hardware Software: I developed advanced AI and deep learning software to tackle complex challenges.
 I also created hardware solutions with RS232 and RS485 port integration, ensuring reliable communication between devices and optimizing industrial automation processes.
 Interface software to strengthen RMCobol display structure
